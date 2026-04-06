@@ -9,7 +9,7 @@
 
 ## 🙋 About Me
 
-I'm a certified data analyst who builds **interactive dashboards** and **AI-powered voice agents** for businesses. I turn messy data into clear decisions — and I'm currently building AI receptionists that answer calls 24/7 for dental clinics.
+I'm a certified data analyst who builds **interactive dashboards** and **AI-powered voice agents** for businesses. I turn messy data into clear decisions and I'm currently building AI receptionists that answer calls 24/7 for dental clinics.
 
 - 🔭 Currently building: **AI Voice Receptionist for Dental Clinics** (OmniDimension + GPT-4.1)
 - 📊 Specialized in: **Power BI dashboards, SQL queries, Excel reporting**
@@ -53,7 +53,7 @@ I'm a certified data analyst who builds **interactive dashboards** and **AI-powe
 ---
 
 ### 🎵 Spotify Analytics Dashboard (Power BI)
-> Dark-themed multi-page dashboard analyzing 789+ songs — artist rankings, popularity trends, album types, and monthly breakdowns.
+> Dark-themed multi-page dashboard analyzing 789+ songs, artist rankings, popularity trends, album types, and monthly breakdowns.
 - **Tools:** Power BI · DAX · Custom Theme
 
 ---
@@ -77,6 +77,6 @@ I'm a certified data analyst who builds **interactive dashboards** and **AI-powe
 
 ## 💼 Let's Work Together
 
-If you need a **Power BI dashboard**, a **data report**, or an **AI voice agent** for your business — I'm available for freelance projects.
+If you need a **Power BI dashboard**, a **data report**, or an **AI voice agent** for your business. I'm available for freelance projects.
 
 📩 **[Connect on LinkedIn](https://linkedin.com/in/rehan-ali-haider-268367380)**
