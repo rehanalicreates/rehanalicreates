@@ -11,7 +11,7 @@
 
 I'm a certified data analyst who builds **interactive dashboards** and **AI-powered voice agents** for businesses. I turn messy data into clear decisions and I'm currently building AI receptionists that answer calls 24/7 for dental clinics.
 
-- 🔭 Currently building: **AI Voice Receptionist for Dental Clinics** (OmniDimension + GPT-4.1)
+- 🔭 Currently building: **AI Voice Receptionist for Dental Clinics** (Vapi.ai + GPT-4.1 + ElevenLabs)
 - 📊 Specialized in: **Power BI dashboards, SQL queries, Excel reporting**
 - 🏅 Certified by: **Deloitte, Quantium, AIN GenX**
 - 💼 Open to: **Freelance data analytics & AI agent projects**
@@ -39,10 +39,10 @@ I'm a certified data analyst who builds **interactive dashboards** and **AI-powe
 
 ## 🚀 Featured Projects
 
-### 🤖 Michael — AI Dental Receptionist
-> AI voice agent that handles inbound clinic calls 24/7, books appointments, answers FAQs, and sends automated post-call email reports to staff.
-- **Stack:** OmniDimension · GPT-4.1 Mini · ElevenLabs · Azure STT
-- **Impact:** Eliminates missed calls and after-hours reception costs
+### 🤖 Roy — AI Dental Receptionist
+> AI receptionist that answers calls 24/7, manages bookings automatically, and ensures no customer inquiry is missed even during peak hours.
+- **Stack:** Vapi · Google Apps Script · Calendar & Sheets Integration
+- **Impact:** Increases bookings, eliminates missed calls, and automates front-desk operations
 
 ---
 
