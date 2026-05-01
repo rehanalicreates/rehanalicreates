@@ -72,7 +72,8 @@ I'm a certified data analyst who builds **interactive dashboards** and **AI-powe
 | SQL for Data Analysis (12 hrs) | AIN GenX · Instructo. LLC (USA) | Mar 2026 |
 | Data Analytics Job Simulation | Deloitte · Forage | Mar 2026 |
 | Data Analytics Job Simulation | Quantium · Forage | Mar 2026 |
-
+| Claude 101 | Anthropic | Apr 2026 |
+| Claude Code 101 | Anthropic | Apr 2026 |
 ---
 
 ## 💼 Let's Work Together
