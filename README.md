@@ -31,6 +31,7 @@ I'm a certified data analyst who builds **interactive dashboards** and **AI-powe
 
 **AI & Automation**
 
+![Claude](https://img.shields.io/badge/Claude-E97627?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4.1-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20STT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
