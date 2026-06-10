@@ -49,6 +49,7 @@ I'm a data analyst and AI automation builder from Karachi. I turn messy business
 ![VAPI AI](https://img.shields.io/badge/VAPI%20AI-5C6BC0?style=flat-square&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-E97627?style=flat-square&logo=claude&logoColor=white)
 ![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
