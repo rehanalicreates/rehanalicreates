@@ -23,7 +23,7 @@ SQL · Python · Power BI · n8n · VAPI AI
 I'm a data analyst and AI automation builder from Karachi. I turn messy business data into clear decisions — and build automations that run 24/7 so businesses never miss a lead or appointment.
 
 - 🤖 Building **AI voice agents & n8n automations** for real estate, barbershops, and clinics
-- 📊 **9 published projects** across SQL, Python ML, Power BI, and customer analytics
+- 📊 **Published projects** across SQL, Python ML, Power BI, and customer analytics
 - 🏆 Job simulations at **Deloitte** and **Quantium** (Forage)
 - 📜 Certified by **Anthropic**, **Kaggle**, **AIN GenX / Instructo. LLC (USA)**
 - 📅 Posting one new project every week — building in public on [LinkedIn](https://linkedin.com/in/rehan-ali-haider-268367380)
