@@ -2,7 +2,7 @@
 
 # Rehan Ali Haider
 
-**Data Analyst · AI Automation Builder**
+**Data Analyst · AI Automation & Agent Builder**
 
 SQL · Python · Power BI · n8n · VAPI AI
 
