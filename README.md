@@ -13,7 +13,7 @@ SQL · Python · Power BI · n8n · VAPI AI
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c5939705d40b5491)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/xXBolmZ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehanalihaider9@gmail.com)
-![Excel](https://img.shields.io/badge/Linktree-D14836?style=for-the-badge&logo=Linktree&logoColor=white)
+![Excel](https://img.shields.io/badge/Linktree-217346?style=for-the-badge&logo=Linktree&logoColor=white)
 
 </div>
 
